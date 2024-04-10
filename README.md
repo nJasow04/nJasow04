@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Jason
-- 👀 I’m interested in computer science and general engineering stuff
-- 🌱 I’m currently working through the Harvard CS50 course by myself
-- 📕 I am a student studying computer science at UCLA expected to graduate in 2026
-- 📫 How to reach me: my instagram is @wjason04, my linkedin: https://www.linkedin.com/in/jason-wan-ucla, my Email: njasow@g.ucla.edu
-- 
+- Hi, I’m Jason
+- I am a student studying computer science at UCLA expecting to graduate in 2026
+
+
+IG: @wjason04
+LinkedIn: https://www.linkedin.com/in/jason-wan-ucla
+Email: njasow@g.ucla.edu
+ 
 
