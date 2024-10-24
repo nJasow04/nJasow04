@@ -4,6 +4,6 @@
 
 IG: @wjason04
 LinkedIn: https://www.linkedin.com/in/jason-wan-ucla
-Email: njasow@g.ucla.edu
+Email: jason.wan@ucla.edu
  
 
